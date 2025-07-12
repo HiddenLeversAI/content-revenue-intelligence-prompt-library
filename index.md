@@ -10,7 +10,9 @@ title: Home
 
 ## 🚀 **Start Here: Get Your Custom Roadmap**
 
-**Don't know where to start?** Use the [Strategic Business Prioritizer](prompts/prioritize-prompt.md) first. This assessment analyzes your business and recommends the 3-4 highest-ROI prompts for your situation.
+<div class="start-here-box">
+<strong>Don't know where to start?</strong> Use the <a href="prompts/prioritize-prompt.md">Strategic Business Prioritizer</a> first. This assessment analyzes your business and recommends the 3-4 highest-ROI prompts for your situation.
+</div>
 
 ---
 
