@@ -1,0 +1,44 @@
+# GitHub Pages Configuration
+title: "Content Revenue Intelligence Prompt Library"
+description: "50+ AI prompts to extract insights, automate growth, and turn your content into revenue"
+author: "Hidden Levers AI"
+url: "https://hiddenleversai.github.io"
+baseurl: "/content-revenue-intelligence-prompt-library"
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - README.md
+  - prompt-library-overview.md
+
+# Social
+github_username: HiddenLeversAI
+
+# SEO
+lang: en
+show_excerpts: true
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections for better organization
+collections:
+  prompts:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .gitignore
+  - CLAUDE.md
+  - client-analysis/
