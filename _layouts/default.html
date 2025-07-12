@@ -96,34 +96,74 @@
       color: #27ae60;
     }
     
-    /* List styling for better readability */
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-      margin: 1rem 0;
+    /* Table styling for prompt lists */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95em;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
     }
     
-    ul li {
-      margin: 0.75rem 0;
-      padding: 0.5rem 0;
-      border-bottom: 1px solid #f1f3f4;
+    table thead tr {
+      background-color: #3498db;
+      color: white;
+      text-align: left;
     }
     
-    ul li:last-child {
-      border-bottom: none;
+    table th,
+    table td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #dddddd;
     }
     
-    ul li a {
-      font-weight: 500;
-      display: inline-block;
-      padding: 0.25rem 0;
+    table th {
+      font-weight: 600;
+      font-size: 0.9em;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
     }
     
-    ul li a:hover {
+    table tbody tr {
+      border-bottom: 1px solid #dddddd;
+    }
+    
+    table tbody tr:nth-of-type(even) {
       background-color: #f8f9fa;
-      padding: 0.25rem 0.5rem;
-      border-radius: 4px;
+    }
+    
+    table tbody tr:last-of-type {
+      border-bottom: 2px solid #3498db;
+    }
+    
+    table tbody tr:hover {
+      background-color: #e3f2fd;
+      transform: scale(1.01);
+      transition: all 0.2s ease;
+    }
+    
+    table td:first-child {
+      font-weight: 500;
+    }
+    
+    table td:first-child a {
+      color: #2980b9;
       text-decoration: none;
+      font-weight: 600;
+    }
+    
+    table td:first-child a:hover {
+      color: #3498db;
+      text-decoration: underline;
+    }
+    
+    table td:last-child {
+      color: #27ae60;
+      font-weight: 500;
+      font-size: 0.9em;
     }
     
     /* Category sections */
@@ -153,9 +193,36 @@
         font-size: 14px;
       }
       
-      ul li {
-        margin: 0.5rem 0;
-        padding: 0.4rem 0;
+      table {
+        font-size: 0.85em;
+      }
+      
+      table th,
+      table td {
+        padding: 8px 10px;
+      }
+      
+      table td:last-child {
+        font-size: 0.8em;
+      }
+      
+      table tbody tr:hover {
+        transform: none;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      table {
+        font-size: 0.8em;
+      }
+      
+      table th,
+      table td {
+        padding: 6px 8px;
+      }
+      
+      table th {
+        font-size: 0.75em;
       }
     }
   </style>

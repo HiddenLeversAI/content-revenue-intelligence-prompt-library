@@ -19,16 +19,18 @@ title: Home
 ### 🎯 [Content Intelligence & Repurposing](prompts/content-intelligence/) (10 prompts)
 Turn your existing content into multiple revenue streams
 
-- [High-Leverage Post Finder](prompts/content-intelligence/high-leverage-post-finder.md)
-- [Newsletter → Funnel](prompts/content-intelligence/newsletter-to-funnel.md)
-- [Long-Form → Twitter Thread](prompts/content-intelligence/long-form-to-twitter-thread.md)
-- [YouTube → LinkedIn](prompts/content-intelligence/youtube-to-linkedin.md)
-- [Blog → Carousel](prompts/content-intelligence/blog-to-carousel.md)
-- [CTA Generator](prompts/content-intelligence/cta-generator.md)
-- [SEO Keyword Puller](prompts/content-intelligence/seo-keyword-puller.md)
-- [Case Study → Short Form](prompts/content-intelligence/case-study-to-short-form.md)
-- [Hook Refiner](prompts/content-intelligence/hook-refiner.md)
-- [Repurposing Checklist Builder](prompts/content-intelligence/repurposing-checklist-builder.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|-----------------|
+| [High-Leverage Post Finder](prompts/content-intelligence/high-leverage-post-finder.md) | Identify posts worth turning into products/lead magnets | 15 min to find 3-5 product ideas |
+| [Newsletter → Funnel](prompts/content-intelligence/newsletter-to-funnel.md) | Turn newsletters into 3-email sales sequences | 30 min per funnel |
+| [Long-Form → Twitter Thread](prompts/content-intelligence/long-form-to-twitter-thread.md) | Break content into viral thread formats | 10 min per thread |
+| [YouTube → LinkedIn](prompts/content-intelligence/youtube-to-linkedin.md) | Reformat videos for B2B authority building | 20 min per post |
+| [Blog → Carousel](prompts/content-intelligence/blog-to-carousel.md) | Convert written posts into shareable visual assets | 15 min per carousel |
+| [CTA Generator](prompts/content-intelligence/cta-generator.md) | Add revenue-driving calls-to-action to any content | 5 min per CTA |
+| [SEO Keyword Puller](prompts/content-intelligence/seo-keyword-puller.md) | Extract search terms from existing content | 10 min per post |
+| [Case Study → Short Form](prompts/content-intelligence/case-study-to-short-form.md) | Turn testimonials into video content ideas | 15 min per case study |
+| [Hook Refiner](prompts/content-intelligence/hook-refiner.md) | Write scroll-stopping intros and headlines | 10 min per hook |
+| [Repurposing Checklist Builder](prompts/content-intelligence/repurposing-checklist-builder.md) | Generate 8-12 formats from one post | 20 min per checklist |
 
 **💰 Revenue Potential**: $5K-$50K from productizing existing content
 
@@ -37,16 +39,18 @@ Turn your existing content into multiple revenue streams
 ### 🎤 [Client & Call Transcript Analysis](prompts/client-analysis/) (10 prompts)
 Mine gold from conversations you've already had
 
-- [Hot Take Extractor](prompts/client-analysis/hot-take-extractor.md)
-- [Pain Point Mapper](prompts/client-analysis/pain-point-mapper.md)
-- [Objection Collector](prompts/client-analysis/objection-collector.md)
-- [Product Idea Miner](prompts/client-analysis/product-idea-miner.md)
-- [Testimonial Generator](prompts/client-analysis/testimonial-generator.md)
-- [Quote Snippet Extractor](prompts/client-analysis/quote-snippet-extractor.md)
-- [Value Proposition Builder](prompts/client-analysis/value-proposition-builder.md)
-- [Positioning Refinement](prompts/client-analysis/positioning-refinement.md)
-- [Case Study Formatter](prompts/client-analysis/case-study-formatter.md)
-- [Buyer Journey Mapper](prompts/client-analysis/buyer-journey-mapper.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|------------------|
+| [Hot Take Extractor](prompts/client-analysis/hot-take-extractor.md) | Pull contrarian opinions from client calls | 15 min per call |
+| [Pain Point Mapper](prompts/client-analysis/pain-point-mapper.md) | Analyze calls for recurring customer problems | 30 min per analysis |
+| [Objection Collector](prompts/client-analysis/objection-collector.md) | Extract sales objections from conversations | 20 min per session |
+| [Product Idea Miner](prompts/client-analysis/product-idea-miner.md) | Generate offers from what clients actually request | 25 min per call review |
+| [Testimonial Generator](prompts/client-analysis/testimonial-generator.md) | Turn spoken praise into marketing assets | 10 min per testimonial |
+| [Quote Snippet Extractor](prompts/client-analysis/quote-snippet-extractor.md) | Capture powerful client phrasing | 15 min per call |
+| [Value Proposition Builder](prompts/client-analysis/value-proposition-builder.md) | Draft positioning from client language | 30 min per positioning |
+| [Positioning Refinement](prompts/client-analysis/positioning-refinement.md) | Improve language based on client words | 20 min per refinement |
+| [Case Study Formatter](prompts/client-analysis/case-study-formatter.md) | Turn call into a revenue-focused story | 40 min per case study |
+| [Buyer Journey Mapper](prompts/client-analysis/buyer-journey-mapper.md) | Identify awareness → decision progression | 45 min per journey map |
 
 **💰 Revenue Potential**: $10K-$100K from better positioning and proof
 
@@ -55,16 +59,18 @@ Mine gold from conversations you've already had
 ### ⚡ [Automation & Workflow Design](prompts/automation-workflow/) (10 prompts)
 Scale your business without scaling your time
 
-- [Automation ROI Sorter](prompts/automation-workflow/automation-roi-sorter.md)
-- [Task Automation Blueprint](prompts/automation-workflow/task-automation-blueprint.md)
-- [Sales Follow-Up Builder](prompts/automation-workflow/sales-follow-up-builder.md)
-- [Manual → Make Scenario](prompts/automation-workflow/manual-to-make-scenario.md)
-- [Deliverable Logger](prompts/automation-workflow/deliverable-logger.md)
-- [Summary Email Generator](prompts/automation-workflow/summary-email-generator.md)
-- [Onboarding Flow Builder](prompts/automation-workflow/onboarding-flow-builder.md)
-- [Automation Opportunity Finder](prompts/automation-workflow/automation-opportunity-finder.md)
-- [Content Tagger Automation](prompts/automation-workflow/content-tagger-automation.md)
-- [Dropoff Re-Engagement Flow](prompts/automation-workflow/dropoff-re-engagement-flow.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|------------------|
+| [Automation ROI Sorter](prompts/automation-workflow/automation-roi-sorter.md) | Rank tasks by automation return on investment | 30 min analysis |
+| [Task Automation Blueprint](prompts/automation-workflow/task-automation-blueprint.md) | Automate repeated weekly tasks | 2-4 hours setup |
+| [Sales Follow-Up Builder](prompts/automation-workflow/sales-follow-up-builder.md) | Design automation for unbooked leads | 3 hours setup |
+| [Manual → Make Scenario](prompts/automation-workflow/manual-to-make-scenario.md) | Convert manual tasks to automated workflows | 2-6 hours per workflow |
+| [Deliverable Logger](prompts/automation-workflow/deliverable-logger.md) | Build workflow for content delivery tracking | 1-2 hours setup |
+| [Summary Email Generator](prompts/automation-workflow/summary-email-generator.md) | Create daily business insights from data | 1 hour setup |
+| [Onboarding Flow Builder](prompts/automation-workflow/onboarding-flow-builder.md) | Set up automation for new clients | 3-4 hours setup |
+| [Automation Opportunity Finder](prompts/automation-workflow/automation-opportunity-finder.md) | Identify what to automate next | 45 min assessment |
+| [Content Tagger Automation](prompts/automation-workflow/content-tagger-automation.md) | Build automated content organization | 2 hours setup |
+| [Dropoff Re-Engagement Flow](prompts/automation-workflow/dropoff-re-engagement-flow.md) | Follow up with non-completers | 2-3 hours setup |
 
 **💰 Revenue Potential**: $20K-$200K from time savings and lead recovery
 
@@ -73,16 +79,18 @@ Scale your business without scaling your time
 ### 📝 [Copy, Messaging & Positioning](prompts/copy-messaging/) (10 prompts)
 Convert more with words that sell
 
-- [Positioning from Testimonials](prompts/copy-messaging/positioning-from-testimonials.md)
-- [Value-First Product Rewrite](prompts/copy-messaging/value-first-product-rewrite.md)
-- [Headline Variant Generator](prompts/copy-messaging/headline-variant-generator.md)
-- [Testimonial Snippet Condenser](prompts/copy-messaging/testimonial-snippet-condenser.md)
-- [Before/After Transformer](prompts/copy-messaging/before-after-transformer.md)
-- [Simplifier](prompts/copy-messaging/simplifier.md)
-- [Emotional Driver Extractor](prompts/copy-messaging/emotional-driver-extractor.md)
-- ["Why This Matters" Block](prompts/copy-messaging/why-this-matters-block.md)
-- [CTA Variation Generator](prompts/copy-messaging/cta-variation-generator.md)
-- [Voice Rewriter](prompts/copy-messaging/voice-rewriter.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|------------------|
+| [Positioning from Testimonials](prompts/copy-messaging/positioning-from-testimonials.md) | Draft product pitch from real feedback | 45 min per positioning |
+| [Value-First Product Rewrite](prompts/copy-messaging/value-first-product-rewrite.md) | Improve descriptions with clear benefits | 30 min per product |
+| [Headline Variant Generator](prompts/copy-messaging/headline-variant-generator.md) | Create A/B test options for hooks | 20 min per set |
+| [Testimonial Snippet Condenser](prompts/copy-messaging/testimonial-snippet-condenser.md) | Make long praise usable for landing pages | 15 min per testimonial |
+| [Before/After Transformer](prompts/copy-messaging/before-after-transformer.md) | Show transformation in one clear sentence | 10 min per transformation |
+| [Simplifier](prompts/copy-messaging/simplifier.md) | Reduce value proposition to essentials | 20 min per message |
+| [Emotional Driver Extractor](prompts/copy-messaging/emotional-driver-extractor.md) | Find what customers feel, not just think | 30 min per analysis |
+| ["Why This Matters" Block](prompts/copy-messaging/why-this-matters-block.md) | Write punchy value reinforcement | 15 min per block |
+| [CTA Variation Generator](prompts/copy-messaging/cta-variation-generator.md) | Tailor calls-to-action to voice and timing | 10 min per CTA set |
+| [Voice Rewriter](prompts/copy-messaging/voice-rewriter.md) | Translate messages into target audience tone | 25 min per piece |
 
 **💰 Revenue Potential**: $15K-$150K from improved conversion rates
 
@@ -91,16 +99,18 @@ Convert more with words that sell
 ### 💼 [Offers, Products & Sales Strategy](prompts/offers-sales/) (10 prompts)
 Monetize your expertise systematically
 
-- [Mini-Product Generator](prompts/offers-sales/mini-product-generator.md)
-- [Upsell Path Recommender](prompts/offers-sales/upsell-path-recommender.md)
-- [Offer Promise Optimizer](prompts/offers-sales/offer-promise-optimizer.md)
-- [Product Suite Designer](prompts/offers-sales/product-suite-designer.md)
-- [Frictionless Pricing Builder](prompts/offers-sales/frictionless-pricing-builder.md)
-- [Micro-Offer Builder](prompts/offers-sales/micro-offer-builder.md)
-- [Follow-Up Email Generator](prompts/offers-sales/follow-up-email-generator.md)
-- [Urgency Block Writer](prompts/offers-sales/urgency-block-writer.md)
-- [Feature → Outcome Translator](prompts/offers-sales/feature-to-outcome-translator.md)
-- [Flagship Offer Comparator](prompts/offers-sales/flagship-offer-comparator.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|------------------|
+| [Mini-Product Generator](prompts/offers-sales/mini-product-generator.md) | Build digital products from raw content | 2-4 hours per product |
+| [Upsell Path Recommender](prompts/offers-sales/upsell-path-recommender.md) | Suggest next steps after freebies | 30 min per path |
+| [Offer Promise Optimizer](prompts/offers-sales/offer-promise-optimizer.md) | Turn case studies into offer pitches | 45 min per offer |
+| [Product Suite Designer](prompts/offers-sales/product-suite-designer.md) | Create 3-tier offer stack from one idea | 2-3 hours per suite |
+| [Frictionless Pricing Builder](prompts/offers-sales/frictionless-pricing-builder.md) | Write clear price tiers | 1 hour per pricing page |
+| [Micro-Offer Builder](prompts/offers-sales/micro-offer-builder.md) | Turn advice into $27-97 products | 1-2 hours per micro-offer |
+| [Follow-Up Email Generator](prompts/offers-sales/follow-up-email-generator.md) | Nurture warm leads from DMs | 30 min per sequence |
+| [Urgency Block Writer](prompts/offers-sales/urgency-block-writer.md) | Build "why now" reasons for offers | 20 min per urgency block |
+| [Feature → Outcome Translator](prompts/offers-sales/feature-to-outcome-translator.md) | Make features sound valuable | 30 min per translation |
+| [Flagship Offer Comparator](prompts/offers-sales/flagship-offer-comparator.md) | Choose between offers strategically | 1 hour per comparison |
 
 **💰 Revenue Potential**: $25K-$250K from new offers and better positioning
 
@@ -109,11 +119,13 @@ Monetize your expertise systematically
 ### 🔍 [Insight Generation & Feedback Loops](prompts/insight-generation/) (5 prompts)
 Learn what your audience actually wants to buy
 
-- [Welcome Survey Builder](prompts/insight-generation/welcome-survey-builder.md)
-- [Survey Data Clusterer](prompts/insight-generation/survey-data-clusterer.md)
-- [Lead Magnet Idea Extractor](prompts/insight-generation/lead-magnet-idea-extractor.md)
-- [Language Summary Extractor](prompts/insight-generation/language-summary-extractor.md)
-- [Trend Detector](prompts/insight-generation/trend-detector.md)
+| Prompt | What It Does | Time Investment |
+|--------|--------------|------------------|
+| [Welcome Survey Builder](prompts/insight-generation/welcome-survey-builder.md) | Get useful info from new subscribers | 1 hour setup |
+| [Survey Data Clusterer](prompts/insight-generation/survey-data-clusterer.md) | Group replies by buyer segment | 45 min per analysis |
+| [Lead Magnet Idea Extractor](prompts/insight-generation/lead-magnet-idea-extractor.md) | Generate freebies from pain points | 30 min per survey |
+| [Language Summary Extractor](prompts/insight-generation/language-summary-extractor.md) | Convert replies into copy language | 30 min per summary |
+| [Trend Detector](prompts/insight-generation/trend-detector.md) | Spot patterns in 50+ replies | 1 hour per trend analysis |
 
 **💰 Revenue Potential**: $10K-$75K from better audience understanding
 
