@@ -96,6 +96,53 @@
       color: #27ae60;
     }
     
+    /* List styling for better readability */
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+      margin: 1rem 0;
+    }
+    
+    ul li {
+      margin: 0.75rem 0;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #f1f3f4;
+    }
+    
+    ul li:last-child {
+      border-bottom: none;
+    }
+    
+    ul li a {
+      font-weight: 500;
+      display: inline-block;
+      padding: 0.25rem 0;
+    }
+    
+    ul li a:hover {
+      background-color: #f8f9fa;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+    
+    /* Category sections */
+    h3 {
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #e1e5e9;
+    }
+    
+    /* Revenue potential styling */
+    p strong:contains("Revenue Potential") {
+      background-color: #d4edda;
+      padding: 0.5rem;
+      border-radius: 4px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+
     /* Mobile responsiveness */
     @media (max-width: 768px) {
       .wrapper {
@@ -104,6 +151,11 @@
       
       .page-content {
         font-size: 14px;
+      }
+      
+      ul li {
+        margin: 0.5rem 0;
+        padding: 0.4rem 0;
       }
     }
   </style>
