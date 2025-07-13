@@ -134,6 +134,11 @@
       text-align: left;
     }
     
+    table thead th {
+      color: white !important;
+      font-weight: 700;
+    }
+    
     table th,
     table td {
       padding: 12px 15px;
@@ -178,8 +183,11 @@
     }
     
     table td:first-child a:hover {
-      color: var(--secondary-color);
+      color: var(--primary-color);
+      background-color: rgba(189, 221, 223, 0.3);
       text-decoration: underline;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
     }
     
     table td:last-child {
