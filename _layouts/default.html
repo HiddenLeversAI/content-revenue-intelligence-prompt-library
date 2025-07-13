@@ -284,6 +284,103 @@
     }
   </style>
 
+  <script>
+    // Copy to clipboard functionality
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text).then(function() {
+        // Success feedback
+        showCopySuccess();
+      }, function(err) {
+        // Fallback for older browsers
+        fallbackCopyTextToClipboard(text);
+      });
+    }
+
+    function fallbackCopyTextToClipboard(text) {
+      var textArea = document.createElement("textarea");
+      textArea.value = text;
+      textArea.style.top = "0";
+      textArea.style.left = "0";
+      textArea.style.position = "fixed";
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      try {
+        var successful = document.execCommand('copy');
+        if (successful) showCopySuccess();
+      } catch (err) {
+        console.error('Fallback: Oops, unable to copy', err);
+      }
+      document.body.removeChild(textArea);
+    }
+
+    function showCopySuccess() {
+      // Create and show success message
+      var msg = document.createElement('div');
+      msg.textContent = 'Copied to clipboard!';
+      msg.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: var(--primary-color);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 6px;
+        z-index: 1000;
+        font-family: Inter, sans-serif;
+        font-size: 14px;
+        box-shadow: 0 4px 12px rgba(13, 7, 54, 0.3);
+      `;
+      document.body.appendChild(msg);
+      setTimeout(() => document.body.removeChild(msg), 2000);
+    }
+
+    // Add copy buttons to all code blocks on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      var codeBlocks = document.querySelectorAll('pre code');
+      codeBlocks.forEach(function(codeBlock) {
+        var pre = codeBlock.parentElement;
+        var copyButton = document.createElement('button');
+        copyButton.textContent = 'Copy Prompt';
+        copyButton.className = 'copy-btn';
+        copyButton.onclick = function() {
+          copyToClipboard(codeBlock.textContent);
+        };
+        
+        // Style the copy button
+        copyButton.style.cssText = `
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background-color: var(--secondary-color);
+          color: var(--primary-color);
+          border: none;
+          padding: 6px 12px;
+          border-radius: 4px;
+          font-size: 12px;
+          font-weight: 600;
+          cursor: pointer;
+          font-family: Helvetica, Arial, sans-serif;
+          transition: all 0.2s ease;
+        `;
+        
+        // Add hover effect
+        copyButton.onmouseover = function() {
+          this.style.backgroundColor = 'var(--primary-color)';
+          this.style.color = 'white';
+        };
+        copyButton.onmouseout = function() {
+          this.style.backgroundColor = 'var(--secondary-color)';
+          this.style.color = 'var(--primary-color)';
+        };
+        
+        // Make pre element relative positioned
+        pre.style.position = 'relative';
+        pre.appendChild(copyButton);
+      });
+    });
+  </script>
+
 </body>
 
 </html>
