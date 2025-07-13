@@ -3,11 +3,15 @@
 ## Purpose
 Suggest logical next-step offers after someone engages with free content or low-ticket products, creating natural progression paths.
 
-## Input Required
-- Current free content or entry offer
-- Customer's likely stage/problem
-- Available products/services
-- Revenue goals
+## Inputs Required
+- Current offers and pricing structure across all tiers
+- Sales funnel data (conversion rates, drop-off points, customer journey analytics)
+- Customer objections and feedback from previous sales interactions
+- Market positioning relative to competitors and their upsell strategies
+- Revenue goals and customer lifetime value targets
+- Existing product/service inventory with performance metrics
+- Customer segmentation data (behavior, purchase history, engagement levels)
+- Sales process documentation and current follow-up sequences
 
 ## Prompt
 

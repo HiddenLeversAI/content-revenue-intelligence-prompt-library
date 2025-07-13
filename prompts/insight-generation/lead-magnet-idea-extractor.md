@@ -10,6 +10,29 @@ Transform survey pain points and audience feedback into irresistible lead magnet
 - Validating content ideas before creation
 - Building content upgrade strategies
 
+## Inputs Required
+
+### Audience Feedback Data
+- **Survey responses with pain points**: Specific challenges, frustrations, and problems identified by your audience
+- **Frequently asked questions**: Common questions from support tickets, social media, emails, and sales calls
+- **Support ticket themes**: Recurring issues, help requests, and problem patterns from customer service
+- **Social media engagement data**: Comments, questions, discussions, and interaction patterns across platforms
+- **Customer interview insights**: Direct feedback from one-on-one conversations with ideal customers
+
+### Performance and Market Data
+- **Current lead magnet performance**: Conversion rates, download numbers, and engagement metrics for existing offers
+- **Competitor lead magnet analysis**: What competitors are offering, their positioning, and apparent performance
+- **Content consumption patterns**: Which existing content performs best, gets shared most, drives most engagement
+- **Sales conversation themes**: Common objections, questions, and concerns raised during sales processes
+- **Email list behavior**: What content subscribers engage with most, unsubscribe triggers, and preferences
+
+### Business Context
+- **Industry/niche specifics**: Your market sector, unique positioning, and expertise areas
+- **Target audience segments**: Detailed profiles of ideal customers, their demographics, and behavioral characteristics
+- **Resource and timeline constraints**: Available time, budget, team capacity, and technical capabilities for creation
+- **Product/service roadmap**: How lead magnets should connect to paid offerings and customer journey progression
+- **Brand guidelines**: Voice, tone, visual requirements, and messaging frameworks to maintain consistency
+
 ## Prompt
 
 ```

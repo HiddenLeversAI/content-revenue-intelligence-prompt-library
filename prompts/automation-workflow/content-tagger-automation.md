@@ -3,6 +3,43 @@
 ## Purpose
 Build automated systems for tagging and categorizing content by format, funnel stage, and strategic purpose for better organization and repurposing.
 
+## Inputs Required
+
+### Current Manual Processes and Time Spent
+- **Content Organization Method**: How you currently categorize and organize content
+- **Tagging Process**: Manual steps for labeling and organizing content pieces
+- **Time Investment**: Hours spent weekly on content organization and categorization
+- **Search and Retrieval**: How you currently find and access specific content
+- **Repurposing Workflow**: Current process for identifying reusable content
+
+### Tools and Systems Currently Used
+- **Content Management Platform**: Where content is currently stored and organized
+- **Creation Tools**: Software used to produce different types of content
+- **Publishing Platforms**: Where content is distributed (blog, social, email, etc.)
+- **Analytics Tools**: How you track content performance and engagement
+- **Collaboration Tools**: How team members share and work on content together
+
+### Business Metrics and Goals
+- **Content Volume**: Number of pieces created weekly/monthly by format type
+- **Content Types**: All formats you create (blog posts, videos, podcasts, social, etc.)
+- **Performance Tracking**: Key metrics you use to measure content success
+- **Repurposing Goals**: How much content you want to adapt across formats
+- **ROI Expectations**: Expected efficiency gains from automated tagging
+
+### Team Size and Roles
+- **Content Team Structure**: Who creates, reviews, and publishes content
+- **Content Workflow**: How content moves from creation to publication
+- **Quality Control**: Who reviews and approves content before release
+- **Technical Resources**: Team members who can implement automation systems
+- **Training Needs**: Learning curve for new content organization system
+
+### Technical Constraints
+- **Content Storage Systems**: Current platforms and their automation capabilities
+- **AI Tool Access**: Available tools for content analysis (OpenAI, Claude, etc.)
+- **Integration Requirements**: Which systems need to connect for seamless workflow
+- **Budget Allocation**: Available funds for content automation and AI tools
+- **Data Security**: Requirements for protecting proprietary content and client information
+
 ## Prompt
 
 You are a content operations specialist focused on automated content categorization and tagging systems. Help me create a smart tagging automation for my content library.

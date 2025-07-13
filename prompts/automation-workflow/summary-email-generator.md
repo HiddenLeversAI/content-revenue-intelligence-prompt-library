@@ -3,6 +3,43 @@
 ## Purpose
 Create automated daily business insights and summary emails compiled from various forms, analytics, and data sources.
 
+## Inputs Required
+
+### Current Manual Processes
+- **Data Collection Method**: How you currently gather business metrics and insights
+- **Reporting Frequency**: How often you create summary reports (daily, weekly, monthly)
+- **Time Investment**: Hours spent weekly compiling and analyzing business data
+- **Report Recipients**: Who receives business summaries and how they're used
+- **Data Quality Issues**: Current challenges with data accuracy or completeness
+
+### Tools and Systems Currently Used
+- **Analytics Platforms**: Google Analytics, social media analytics, email marketing tools
+- **Business Intelligence Tools**: Current dashboards, reporting tools, or manual spreadsheets
+- **Data Sources**: CRM, sales platforms, customer support, financial systems
+- **Communication Platforms**: Email systems, Slack, Teams, or other messaging tools
+- **Storage Systems**: Where data is currently stored and how it's accessed
+
+### Business Metrics and Goals
+- **Key Performance Indicators**: Most important metrics for your business success
+- **Revenue Tracking**: Sales data, conversion rates, customer lifetime value
+- **Operational Metrics**: Team productivity, project completion, efficiency measures
+- **Customer Metrics**: Satisfaction scores, support tickets, retention rates
+- **Growth Indicators**: Lead generation, market expansion, competitive positioning
+
+### Team Size and Roles
+- **Data Stakeholders**: Who needs regular business insights and reports
+- **Decision Makers**: Executives or managers who act on business intelligence
+- **Technical Resources**: Team members who can help with data integration
+- **Report Frequency Needs**: How often different stakeholders need updates
+- **Customization Requirements**: Different data needs for different roles
+
+### Technical Constraints
+- **Data Integration Capabilities**: Which systems can connect and share data
+- **Automation Platform Access**: Available tools (Zapier, Make.com, Power BI, etc.)
+- **API Availability**: Which data sources have API access for automated collection
+- **Security Requirements**: Data privacy and access control considerations
+- **Budget Limitations**: Available spend for business intelligence and automation tools
+
 ## Prompt
 
 You are a business intelligence automation specialist. Help me create an automated system that compiles daily business insights from multiple data sources into executive summary emails.

@@ -3,6 +3,14 @@
 ## Purpose
 Extract potential product and service opportunities from customer conversations by identifying unmet needs, workflow gaps, and requests for additional solutions.
 
+## Inputs Required
+- **Customer conversation transcripts or notes** from onboarding, support, or consultation calls
+- **Customer's current tech stack and workflow details** including tools they use and processes they follow
+- **Specific requests or "wish list" items** mentioned during conversations
+- **Problems or inefficiencies** the customer described in their current processes
+- **Budget discussions or investment mentions** related to solving identified problems
+- **Competitive solutions referenced** that the customer uses or has considered for related needs
+
 ## When To Use
 - Customer mentions wishing something existed that doesn't
 - Identifying gaps in your current product suite

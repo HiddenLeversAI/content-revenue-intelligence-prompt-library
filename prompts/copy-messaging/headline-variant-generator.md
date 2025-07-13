@@ -42,12 +42,37 @@ Keep headlines between 5-12 words when possible.
 Make each variation feel distinct and testable.
 ```
 
-## Input Requirements
-- Clear description of offer or content
-- Target audience definition
-- Primary benefit or outcome
-- Context for where headlines will be used
-- Any specific constraints (character limits, platform requirements)
+## Inputs Required
+
+### Offer & Content Foundation
+- **Detailed offer description** including what customers receive
+- **Core value proposition** and primary benefit/outcome
+- **Secondary benefits** and supporting value points
+- **Unique selling proposition** that differentiates from competitors
+
+### Target Audience Profile
+- **Detailed customer personas** with pain points and motivations
+- **Audience awareness level** (cold, warm, or hot prospects)
+- **Language preferences** and communication style
+- **Customer objections** and resistance points to address
+
+### Platform & Context Requirements
+- **Specific platforms** where headlines will be used (email, social, ads, landing pages)
+- **Character or word limits** for each platform
+- **Visual context** (will headlines appear with images, videos, etc.)
+- **Campaign objectives** (clicks, conversions, engagement, brand awareness)
+
+### Brand Voice & Competitive Context
+- **Brand voice guidelines** and tone requirements
+- **Competitor messaging examples** to differentiate against
+- **Brand personality traits** to maintain consistency
+- **Current headline performance** data for benchmarking
+
+### Success Metrics & Testing Framework
+- **Conversion goals** and success metrics to optimize for
+- **A/B testing constraints** and timeline
+- **Performance benchmarks** from previous campaigns
+- **Customer feedback** on existing messaging effectiveness
 
 ## Expected Output
 - 10 distinct headline variations

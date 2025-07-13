@@ -3,6 +3,14 @@
 ## Purpose
 Systematically identify and categorize customer objections, concerns, and hesitations from conversations to build comprehensive objection-handling frameworks and improve sales processes.
 
+## Inputs Required
+- **Sales call recordings or detailed conversation notes** where objections were raised
+- **Prospect background information** including company context, role, and decision-making authority
+- **Solution or offer details** that were presented during the conversation
+- **Specific objections or concerns** expressed by the prospect (both direct and implied)
+- **Context about the sales process** including where the prospect is in their buying journey
+- **Follow-up communications** if any objections were addressed in subsequent interactions
+
 ## When To Use
 - Analyzing sales calls where prospects didn't move forward
 - Reviewing customer feedback about hesitations or concerns

@@ -3,6 +3,43 @@
 ## Purpose
 Systematically identify the next best automation opportunities in your business to maximize efficiency and revenue impact.
 
+## Inputs Required
+
+### Current Manual Processes and Time Spent
+- **Daily Recurring Tasks**: List of tasks performed every day and time spent on each
+- **Weekly/Monthly Activities**: Regular tasks and their frequency and duration
+- **Administrative Overhead**: Time spent on paperwork, data entry, reporting
+- **Communication Tasks**: Manual follow-ups, status updates, coordination activities
+- **Quality Control Processes**: Manual reviews, approvals, and validation steps
+
+### Tools and Systems Currently Used
+- **Software Stack**: Complete list of all business tools and platforms currently used
+- **Data Flow**: How information moves between different systems manually
+- **Integration Status**: Which tools are connected vs. require manual data transfer
+- **Automation Tools Available**: Current access to Zapier, Make.com, or other platforms
+- **Technical Skill Level**: Team's comfort with setting up and managing automations
+
+### Business Metrics and Goals
+- **Revenue Model**: How your business generates income and key revenue drivers
+- **Growth Stage**: Current business phase (startup, scaling, established)
+- **Team Productivity**: Current efficiency levels and productivity bottlenecks
+- **Cost Structure**: Major expense categories and cost reduction opportunities
+- **Competitive Advantages**: What makes your business unique and successful
+
+### Team Size and Roles
+- **Organizational Structure**: Number of team members and their primary responsibilities
+- **Role Dependencies**: Which tasks require specific team members or approvals
+- **Capacity Constraints**: Where team members are overloaded or underutilized
+- **Skill Gaps**: Areas where automation could compensate for limited expertise
+- **Growth Plans**: Expected team expansion and role evolution
+
+### Technical Constraints
+- **Budget Allocation**: Available funds for automation tools and implementation
+- **Security Requirements**: Data protection and compliance considerations
+- **System Limitations**: Technical barriers to automation in current setup
+- **Change Management**: Team's readiness to adopt new automated processes
+- **Implementation Timeline**: Urgency and available time for automation projects
+
 ## Prompt
 
 You are a business process optimization expert specializing in automation opportunity identification. Help me discover and prioritize new automation possibilities in my business.

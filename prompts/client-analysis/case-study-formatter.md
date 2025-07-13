@@ -3,6 +3,14 @@
 ## Purpose
 Transform raw customer success conversations into compelling, structured case studies that demonstrate value and build credibility with similar prospects.
 
+## Inputs Required
+- **Detailed customer success conversations** or interviews with comprehensive outcome discussions
+- **Customer company information** including industry, size, and credibility markers for the case study
+- **Specific metrics and quantifiable results** achieved through your solution
+- **Timeline information** covering implementation period and time to achieve results
+- **Background on their challenges** and situation before implementing your solution
+- **Written permission and approval** from the customer to publish their story and use their company name
+
 ## When To Use
 - Customer has achieved significant, measurable results
 - Need social proof for specific industries or use cases

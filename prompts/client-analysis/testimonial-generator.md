@@ -3,6 +3,14 @@
 ## Purpose
 Convert raw customer conversations, feedback, and success stories into compelling, credible testimonials that drive sales and build trust with prospects.
 
+## Inputs Required
+- **Customer success conversations or feedback sessions** with positive outcomes and experiences
+- **Customer details and credentials** including name, title, company, and industry for credibility
+- **Specific results and metrics** achieved by the customer using your solution
+- **Context about their situation** before implementing your solution and the transformation experienced
+- **Written permission** from the customer to use their feedback in marketing materials
+- **Timeline information** about how long they've been a customer and when results were achieved
+
 ## When To Use
 - Customer shares positive feedback during calls or emails
 - After successful project completion or milestone achievement

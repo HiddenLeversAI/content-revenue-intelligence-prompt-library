@@ -3,6 +3,16 @@
 ## Purpose
 Generate a comprehensive checklist of all possible content formats and distribution channels for maximizing the ROI of a single piece of content.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Original content details** (type, title, length, topic, and target audience)
+- **Key content sections** (main points, sections, or highlights to repurpose)
+- **Business goals** (lead generation, sales, authority building, or traffic)
+- **Available platforms** (where your audience is most active)
+- **Offers to promote** (products, services, or lead magnets to integrate)
+
 ## Prompt
 
 ```

@@ -10,6 +10,30 @@ Convert survey replies and audience feedback into actionable copy language, phra
 - Building social media content
 - Crafting product descriptions and positioning
 
+## Inputs Required
+
+### Raw Audience Communication Data
+- **Survey responses**: Open-ended feedback, problem descriptions, and goal statements from audience surveys
+- **Customer interview transcripts**: Word-for-word recordings or detailed notes from customer conversations
+- **Support conversation logs**: Help desk tickets, chat transcripts, and customer service email exchanges
+- **Social media interactions**: Comments, replies, direct messages, and discussion threads where customers express themselves
+- **Review and testimonial content**: Customer feedback, product reviews, and success story testimonials
+- **Sales call recordings or notes**: Prospect conversations, objections raised, and language used during sales process
+
+### Contextual Business Information
+- **Industry and niche details**: Your specific market sector, technical complexity level, and professional context
+- **Target audience characteristics**: Demographics, education levels, professional backgrounds, and communication preferences
+- **Current messaging examples**: Existing copy, marketing materials, and content that represents your current voice
+- **Brand voice guidelines**: Established tone, style preferences, formality levels, and messaging frameworks
+- **Product/service descriptions**: What you offer, how you currently describe it, and key value propositions
+
+### Analysis Scope and Objectives
+- **Specific copy projects**: What marketing materials, campaigns, or content pieces you're developing
+- **Audience segments**: Different customer groups that may use different language patterns
+- **Geographic or cultural considerations**: Regional language differences, cultural context, or industry jargon
+- **Communication channel focus**: Whether language will be used for email, social media, website, sales materials, etc.
+- **Urgency and timeline context**: How quickly language insights are needed and implementation timeline
+
 ## Prompt
 
 ```

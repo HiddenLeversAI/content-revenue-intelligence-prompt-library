@@ -5,6 +5,17 @@
 ## Purpose
 Analyze your existing content to identify high-performing posts that demonstrate proven audience interest and can be transformed into revenue-generating products or lead magnets.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Content performance data** (analytics export, screenshots, or manual list)
+- **Engagement metrics** (views, comments, shares, saves, bookmarks)
+- **Post titles/topics** of your best-performing content
+- **Time period** you want to analyze (e.g., last 6 months)
+- **Platform(s)** where content was published (LinkedIn, Twitter, Instagram, etc.)
+- **Any direct feedback** (DMs, comments asking for more info)
+
 ## Prompt
 
 <div style="position: relative;">

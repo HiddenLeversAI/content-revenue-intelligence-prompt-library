@@ -47,11 +47,43 @@ Create messaging that speaks to each emotional layer:
 4. **Identity Bridge**: "You're the type of person who..."
 ```
 
-## Input Requirements
-- Customer interviews, surveys, or detailed feedback
-- Direct quotes and customer language
-- Multiple customer perspectives when possible
-- Context about customer situations and backgrounds
+## Inputs Required
+
+### Customer Research & Feedback
+- **Detailed customer interviews** with open-ended emotional responses
+- **Survey responses** that include feelings, frustrations, and desires
+- **Support ticket conversations** showing emotional states
+- **Customer journey touchpoint feedback** across all interaction stages
+
+### Voice of Customer Data
+- **Direct quotes and testimonials** with emotional language
+- **Customer language patterns** and terminology they use
+- **Pain point descriptions** in customers' own words
+- **Success story narratives** including emotional transformation
+
+### Customer Context & Demographics
+- **Customer background information** (industry, role, experience level)
+- **Decision-making triggers** and emotional motivators
+- **Previous solution attempts** and associated frustrations
+- **Social and professional pressures** affecting their decisions
+
+### Behavioral & Psychological Insights
+- **Purchase decision factors** beyond logical reasoning
+- **Identity aspirations** and desired self-image
+- **Fear factors** and risk concerns that hold them back
+- **Social proof needs** and peer influence factors
+
+### Competitive & Market Context
+- **Competitor customer feedback** for emotional comparison
+- **Industry emotional trends** and common pain points
+- **Market positioning opportunities** based on emotional gaps
+- **Customer objection patterns** with emotional undertones
+
+### Brand Voice Integration
+- **Current brand messaging** to identify emotional alignment gaps
+- **Brand personality traits** that should resonate with customer emotions
+- **Communication style preferences** of target emotional segments
+- **Empathy mapping** results from existing research
 
 ## Expected Output
 - Clear breakdown of emotional layers

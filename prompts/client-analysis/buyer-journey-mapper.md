@@ -3,6 +3,14 @@
 ## Purpose
 Map the complete customer buying journey based on their actual experience, from initial awareness through decision and implementation, to optimize marketing and sales processes for similar prospects.
 
+## Inputs Required
+- **Customer conversations about their buying experience** including detailed discussion of their decision-making process
+- **Timeline information** covering the entire journey from problem recognition to implementation
+- **Stakeholder details** about who was involved in the decision and their roles
+- **Research and evaluation details** including sources consulted and criteria used
+- **Decision factors and concerns** that influenced their choice at each stage
+- **Touchpoints with your company** and other vendors throughout their buying process
+
 ## When To Use
 - Customer shares details about their buying process
 - Need to understand decision-making patterns for market segment

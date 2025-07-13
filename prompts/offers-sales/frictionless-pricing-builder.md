@@ -3,11 +3,15 @@
 ## Purpose
 Create clear, compelling price tiers that remove decision friction and guide customers to the right option for their needs and budget.
 
-## Input Required
-- Product/service details
-- Target customer segments
-- Cost structure
-- Competitive landscape
+## Inputs Required
+- Product/service details with clear value propositions and differentiators
+- Target customer segments with purchasing behavior and budget constraints
+- Cost structure analysis including delivery costs and profit margin requirements
+- Competitive landscape analysis with pricing benchmarks and positioning strategies
+- Customer objections and pricing feedback from previous sales interactions
+- Market research data on price sensitivity and willingness to pay
+- Sales process metrics (conversion rates, average deal size, sales cycle length)
+- Revenue goals and customer acquisition cost targets
 
 ## Prompt
 

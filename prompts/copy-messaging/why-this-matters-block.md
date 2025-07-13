@@ -51,12 +51,43 @@ Structure as a 3-4 paragraph block that:
 Tone: Authoritative but not pushy, urgent but not panicky.
 ```
 
-## Input Requirements
-- Clear description of your offer
-- Understanding of customer goals and pain points
-- Knowledge of competitive landscape
-- Insight into consequences of inaction
-- Understanding of broader impact
+## Inputs Required
+
+### Offer & Value Proposition Foundation
+- **Detailed offer description** including all components and benefits
+- **Core value proposition** and unique selling proposition
+- **Key differentiators** that set you apart from alternatives
+- **Outcome promises** and measurable results customers can expect
+
+### Customer Intelligence & Pain Points
+- **Deep customer pain point analysis** with emotional and logical dimensions
+- **Consequences of inaction** documented through customer research
+- **Customer goal hierarchy** showing immediate vs long-term objectives
+- **Decision-making pressure points** and urgency factors
+
+### Market & Competitive Context
+- **Competitive landscape analysis** showing alternatives and their positioning
+- **Market trends** and industry changes affecting customer urgency
+- **Opportunity costs** customers face by not solving this problem
+- **Status quo alternatives** and why they fail customers
+
+### Social Proof & Validation
+- **Success story examples** showing transformation outcomes
+- **Industry recognition** or third-party validation
+- **Customer testimonials** about consequences of waiting
+- **Market research data** supporting the importance of this problem
+
+### Risk & Consequence Documentation
+- **Cost of inaction analysis** with specific impacts
+- **Missed opportunity examples** from customer experience
+- **Competitive disadvantage** scenarios for prospects
+- **Time-sensitive factors** that create legitimate urgency
+
+### Brand Positioning Requirements
+- **Brand authority markers** that support your positioning
+- **Expertise demonstrations** and credibility factors
+- **Unique approach benefits** that justify premium positioning
+- **Value amplification** factors that show multiplier effects
 
 ## Expected Output
 - 3-4 paragraph "Why This Matters" section

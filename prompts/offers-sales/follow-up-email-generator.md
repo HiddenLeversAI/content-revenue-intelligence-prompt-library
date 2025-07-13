@@ -3,11 +3,15 @@
 ## Purpose
 Create nurturing email sequences for warm leads from DMs, comments, or initial inquiries to guide them toward a purchase decision.
 
-## Input Required
-- Initial interaction context
-- Lead temperature/interest level
-- Available offers
-- Relationship timeline goals
+## Inputs Required
+- Sales process documentation and current follow-up sequences
+- Lead qualification criteria and scoring system
+- Customer objections and feedback from previous sales interactions
+- Available offers with pricing structure and positioning strategy
+- Market positioning relative to competitors and their sales approaches
+- Revenue goals and conversion rate targets for email sequences
+- Customer journey analytics and engagement data
+- Sales funnel metrics (open rates, click rates, conversion rates by sequence)
 
 ## Prompt
 

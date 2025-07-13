@@ -3,6 +3,14 @@
 ## Purpose
 Identify and extract powerful, quotable moments from customer conversations that can be used for marketing, social proof, and content creation.
 
+## Inputs Required
+- **Conversation transcripts or detailed notes** from customer calls, interviews, or feedback sessions
+- **Customer background and credentials** to establish credibility and authority for quotes
+- **Context about their situation and results** to understand the significance of their statements
+- **Specific impactful statements** or emotional expressions from the conversation
+- **Permission to use quotes publicly** including approval for attribution and context
+- **Focus areas or themes** to prioritize which types of quotes are most valuable for current needs
+
 ## When To Use
 - Customer says something particularly impactful during a conversation
 - Looking for social media content with authentic customer voice

@@ -9,6 +9,28 @@ Generate strategic welcome survey questions that extract maximum audience intell
 - Building subscriber segmentation frameworks
 - Creating audience intelligence feedback loops
 
+## Inputs Required
+
+### Business Information
+- **Business/niche description**: Your industry, market position, and core focus area
+- **Target audience profile**: Demographics, psychographics, and behavioral characteristics of your ideal customers
+- **Main product/service offering**: Core solutions you provide and their value propositions
+- **Current email list size**: Number of existing subscribers for context and benchmarking
+- **Primary pain points you solve**: 3-5 main challenges your business addresses for customers
+
+### Strategic Context
+- **Current conversion funnel performance**: Existing opt-in rates, engagement metrics, and conversion data
+- **Segmentation goals**: Specific ways you want to categorize and group subscribers
+- **Content strategy objectives**: How survey insights will inform your content planning
+- **Product development roadmap**: Upcoming offerings that survey data should support
+- **Competitive landscape**: How competitors engage with similar audiences
+
+### Technical Requirements
+- **Survey platform capabilities**: Available question types, logic features, and integration options
+- **CRM/email platform**: System where survey data will be stored and utilized
+- **Mobile optimization needs**: Device usage patterns of your audience
+- **Integration requirements**: How survey data connects to your marketing automation
+
 ## Prompt
 
 ```

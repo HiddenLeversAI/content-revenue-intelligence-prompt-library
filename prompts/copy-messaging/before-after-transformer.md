@@ -39,12 +39,37 @@ Guidelines:
 - Focus on the most impressive or relevant transformation
 ```
 
-## Input Requirements
-- Clear starting point and ending point
-- Specific metrics or measurable changes
-- Timeframe for the transformation
-- Context about the customer/client
-- Any direct quotes about their experience
+## Inputs Required
+
+### Transformation Data & Metrics
+- **Clear starting situation** with specific details about the customer's initial state
+- **Measurable end results** with concrete metrics, numbers, and outcomes
+- **Transformation timeframe** showing how long the change took
+- **Intermediate milestones** or progress markers during the journey
+
+### Customer Context & Background
+- **Customer profile information** (industry, role, company size, demographics)
+- **Initial challenges and pain points** that motivated them to seek a solution
+- **Goals and expectations** they had at the beginning
+- **Previous attempts** or solutions they tried before finding you
+
+### Evidence & Documentation
+- **Direct customer quotes** about their experience and transformation
+- **Before-and-after photos, screenshots, or visuals** if applicable
+- **Third-party validation** (colleagues, reviews, industry recognition)
+- **Detailed case study information** with comprehensive transformation story
+
+### Messaging Strategy Needs
+- **Target audience segments** who need to see this transformation
+- **Objections to address** through the before-and-after story
+- **Competitive differentiation** points to emphasize
+- **Emotional impact goals** (inspiration, confidence, urgency)
+
+### Brand Voice & Positioning
+- **Brand voice guidelines** for presenting transformation stories
+- **Value proposition alignment** with your core messaging
+- **Industry context** and terminology that resonates with prospects
+- **Credibility factors** to emphasize (process, expertise, results)
 
 ## Expected Output
 - 5 distinct before-and-after statements

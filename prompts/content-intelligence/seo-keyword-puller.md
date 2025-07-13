@@ -3,6 +3,16 @@
 ## Purpose
 Extract high-value SEO phrases and semantic keywords from existing content to optimize for search engines and discover new content opportunities.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Content to analyze** (full text of your existing content)
+- **Current context** (primary topic, target audience, and content type)
+- **SEO metrics** (domain authority, current target keyword if any)
+- **Business objectives** (what you want this content to achieve)
+- **Competitive landscape** (main competitors in your space)
+
 ## Prompt
 
 ```

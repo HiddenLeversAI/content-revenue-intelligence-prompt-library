@@ -53,12 +53,43 @@ Guidelines:
 - Ensure clarity isn't sacrificed for voice
 ```
 
-## Input Requirements
-- Original messaging to be rewritten
-- Clear target voice and tone description
-- Specific audience characteristics
-- Platform or context information
-- Examples of preferred voice (if available)
+## Inputs Required
+
+### Original Content Foundation
+- **Complete original messaging** that needs voice adaptation
+- **Current brand voice guidelines** and existing tone documentation
+- **Core value propositions** that must be preserved
+- **Key persuasion elements** that drive conversion
+
+### Target Voice Specification
+- **Detailed voice description** (professional, casual, authoritative, friendly, etc.)
+- **Personality traits** to emphasize (confident, empathetic, bold, nurturing)
+- **Energy level requirements** (high-energy vs calm and measured)
+- **Formality spectrum** (corporate formal to conversational informal)
+
+### Audience Intelligence
+- **Target audience characteristics** (demographics, psychographics, industry)
+- **Communication preferences** of the specific audience segment
+- **Cultural context** and regional language considerations
+- **Professional background** and expertise level of audience
+
+### Platform & Context Adaptation
+- **Specific platforms** where content will be used (LinkedIn, Instagram, email)
+- **Content format** requirements (short-form vs long-form)
+- **Visual integration** needs (text with images, standalone copy)
+- **Platform culture** and communication norms
+
+### Voice Examples & References
+- **Successful brand examples** with similar target voice
+- **Customer language samples** from interviews and feedback
+- **Competitor voice analysis** for differentiation opportunities
+- **Platform-specific voice examples** that resonate with your audience
+
+### Brand Consistency Requirements
+- **Non-negotiable brand elements** that must remain consistent
+- **Value proposition hierarchy** that must be maintained
+- **Legal or compliance** language that cannot be altered
+- **Call-to-action effectiveness** that must be preserved across voice variations
 
 ## Expected Output
 - 3 distinct voice variations

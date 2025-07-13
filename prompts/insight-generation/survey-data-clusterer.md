@@ -10,6 +10,29 @@ Group and analyze survey responses to identify distinct buyer segments, behavior
 - Creating buyer personas from real data
 - Developing targeted messaging strategies
 
+## Inputs Required
+
+### Survey Response Data
+- **Raw survey responses**: Complete dataset with all fields - demographics, pain points, preferences, budget responses, urgency indicators
+- **Response volume**: Total number of completed surveys and completion rates
+- **Data collection timeframe**: When responses were gathered and any seasonal considerations
+- **Question types and formats**: Multiple choice options, scale responses, open-ended text, and rating data
+- **Response quality indicators**: Complete vs. partial responses, engagement levels, and data reliability metrics
+
+### Business Context Information
+- **Industry/niche details**: Your specific market sector, competitive landscape, and business model
+- **Product/service portfolio**: Current offerings, price points, and positioning in the market
+- **Target market definition**: Existing customer profiles, ideal customer characteristics, and market size
+- **Revenue and pricing structure**: Price ranges, subscription models, and value propositions
+- **Customer lifecycle stages**: How subscribers typically progress from awareness to purchase
+
+### Analysis Parameters
+- **Segmentation objectives**: Specific business goals for audience grouping (content targeting, product development, etc.)
+- **Statistical preferences**: Desired confidence levels, sample size considerations, and significance thresholds
+- **Segment size requirements**: Minimum viable segment sizes for marketing and content strategy
+- **Behavioral data context**: Purchase history, engagement patterns, and content consumption data if available
+- **External data sources**: Additional customer data, market research, or competitive intelligence to inform clustering
+
 ## Prompt
 
 ```

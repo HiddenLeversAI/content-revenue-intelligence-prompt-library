@@ -3,6 +3,16 @@
 ## Purpose
 Transform lengthy case studies and testimonials into compelling short-form video ideas that showcase results and build trust while maintaining authenticity and impact.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Case study details** (client name, industry, challenge, solution, results, and timeline)
+- **Full case study content** (complete testimonial or case study text)
+- **Target platforms** (TikTok, Instagram Reels, YouTube Shorts, LinkedIn)
+- **Client permission** (written approval to share their story publicly)
+- **Key metrics** (specific numbers and outcomes achieved)
+
 ## Prompt
 
 ```

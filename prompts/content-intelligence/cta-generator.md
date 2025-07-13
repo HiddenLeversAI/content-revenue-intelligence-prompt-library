@@ -3,6 +3,16 @@
 ## Purpose
 Create compelling, offer-aligned calls-to-action that naturally fit any content piece while driving specific revenue actions without feeling salesy or forced.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Content details** (type, topic, length, and target audience)
+- **Business context** (your main offer, price point, and unique value proposition)
+- **Audience state** (current situation, desired outcome, and main obstacles)
+- **Content summary** (key points or full content to align CTAs with)
+- **Success metrics** (what specific results you deliver to customers)
+
 ## Prompt
 
 ```

@@ -3,11 +3,15 @@
 ## Purpose
 Create compelling "why now" reasons for offers that feel authentic and motivating rather than manipulative or artificial.
 
-## Input Required
-- Offer details and timing
-- Market conditions
-- Customer situation
-- Seasonal/industry factors
+## Inputs Required
+- Current offers with pricing structure and positioning information
+- Sales process data including typical decision timelines and conversion triggers
+- Customer objections and feedback related to timing and urgency concerns
+- Market positioning and competitive analysis for urgency messaging
+- Revenue goals and conversion rate targets for urgency-driven campaigns
+- Seasonal/industry factors and market timing considerations
+- Customer psychology insights and purchasing behavior patterns
+- Historical data on urgency tactics performance and customer response
 
 ## Prompt
 

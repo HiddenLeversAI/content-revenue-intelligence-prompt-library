@@ -37,10 +37,31 @@ Guidelines:
 - Keep each pitch under 100 words
 ```
 
-## Input Requirements
-- 3-10 genuine customer testimonials or feedback pieces
-- Mix of feedback types (reviews, support emails, survey responses)
-- Include both detailed and brief testimonials
+## Inputs Required
+
+### Core Customer Feedback
+- **3-10 genuine customer testimonials** (full reviews, case studies, detailed feedback)
+- **Customer interviews or survey responses** with specific outcome details
+- **Support emails or chat logs** showing customer satisfaction
+- **Video testimonials or audio feedback** (transcripts acceptable)
+
+### Target Audience Intelligence
+- **Detailed customer personas** with demographics, pain points, and motivations
+- **Customer journey mapping** showing how testimonials fit different stages
+- **Audience language preferences** and communication styles
+- **Competitor customer feedback** for positioning differentiation
+
+### Brand & Messaging Foundation
+- **Current brand voice guidelines** and tone preferences
+- **Existing value propositions** to compare against testimonial insights
+- **Key differentiators** you want to emphasize
+- **Brand personality traits** to maintain consistency
+
+### Conversion Context
+- **Specific use cases** for the positioning (landing pages, email sequences, ads)
+- **Success metrics** you're optimizing for (conversions, engagement, trust)
+- **Competitive positioning** challenges you're trying to address
+- **Customer objections** that testimonials should help overcome
 
 ## Expected Output
 - 3 distinct positioning variations

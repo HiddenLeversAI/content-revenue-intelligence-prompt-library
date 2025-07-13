@@ -3,6 +3,43 @@
 ## Purpose
 Set up comprehensive automation for seamlessly onboarding new clients from contract signing to project kickoff.
 
+## Inputs Required
+
+### Process Documentation or Descriptions
+- **Current Onboarding Process**: Step-by-step breakdown of how you currently onboard new clients
+- **Onboarding Timeline**: How long the current process takes from signing to project start
+- **Client Touch Points**: All interactions and communications during onboarding
+- **Required Documentation**: Forms, contracts, questionnaires, and materials needed
+- **Handoff Procedures**: How clients transition between team members or project phases
+
+### Current Pain Points and Bottlenecks
+- **Common Delays**: Where the onboarding process typically gets stuck or slowed down
+- **Missing Information**: What clients frequently fail to provide initially
+- **Communication Gaps**: Where clients feel confused or left in the dark
+- **Manual Tasks**: Time-consuming steps that could be automated
+- **Quality Issues**: Where onboarding inconsistencies occur between clients
+
+### Available Tools and Integrations
+- **CRM/Client Management**: Platform used for client information and communication
+- **Project Management Tools**: Software for tracking onboarding tasks and milestones
+- **Document Management**: Where contracts, forms, and client files are stored
+- **Communication Platforms**: Email, client portals, video conferencing tools
+- **Payment/Contract Systems**: Tools used for contract signing and payment processing
+
+### Success Metrics and Goals
+- **Onboarding Speed**: Target timeline from contract to project kickoff
+- **Client Satisfaction**: Desired client experience and feedback scores
+- **Team Efficiency**: Time savings goals for staff involved in onboarding
+- **Completion Rate**: Percentage of clients who complete onboarding successfully
+- **First Value Delivery**: How quickly clients see initial results or progress
+
+### Implementation Timeline
+- **Service Types**: Different offerings that may require different onboarding flows
+- **Client Volume**: Number of new clients onboarded monthly
+- **Team Capacity**: Available staff time for onboarding automation setup
+- **Technology Budget**: Available funds for onboarding automation tools
+- **Launch Timeline**: When the automated onboarding system needs to be operational
+
 ## Prompt
 
 You are a client success automation specialist. Help me create a complete onboarding automation that ensures every new client has a smooth, professional start to our working relationship.

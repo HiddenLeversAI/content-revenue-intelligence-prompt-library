@@ -5,6 +5,16 @@
 ## Purpose
 Transform your best-performing newsletters into automated sales funnels that convert subscribers into customers while they sleep.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Original newsletter content** (the full text of your high-performing newsletter)
+- **Product/service details** (what you're promoting in the funnel)
+- **Price point** (cost of your offer to calibrate messaging intensity)
+- **Target audience description** (demographics, pain points, and desires)
+- **Available bonuses or guarantees** (value-adds to strengthen the offer)
+
 ## Prompt
 
 ```

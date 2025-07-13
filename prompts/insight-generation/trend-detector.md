@@ -10,6 +10,29 @@ Analyze 50+ survey responses, feedback data, or audience interactions to identif
 - Detecting changes in audience behavior patterns
 - Validating business pivot or expansion decisions
 
+## Inputs Required
+
+### Large-Scale Dataset
+- **Volume of responses**: Minimum 50+ survey responses, feedback entries, or audience interactions for statistical significance
+- **Data collection timeframe**: Specific period when data was gathered, including start/end dates and collection duration
+- **Data source variety**: Mix of surveys, interviews, social media interactions, support tickets, and customer feedback
+- **Response completeness**: Indication of partial vs. complete responses and data quality indicators
+- **Historical comparison data**: Previous survey results, baseline metrics, or earlier audience research for trend comparison
+
+### Market and Business Context
+- **Industry sector details**: Your specific market, competitive landscape, and business model context
+- **Sample demographic information**: Age ranges, geographic distribution, customer tenure, and audience characteristics
+- **Business performance metrics**: Revenue trends, customer acquisition patterns, and growth indicators during data collection period
+- **External market factors**: Economic conditions, industry changes, or seasonal influences affecting the data
+- **Competitive environment**: Major competitor activities, market disruptions, or industry shifts during analysis period
+
+### Analysis Parameters and Objectives
+- **Trend detection goals**: Specific patterns you're looking to identify (behavioral shifts, preference changes, emerging needs)
+- **Statistical confidence requirements**: Desired significance levels and confidence intervals for pattern identification
+- **Segment analysis needs**: Whether trends should be broken down by customer segments, demographics, or behavioral groups
+- **Actionability focus**: How trend insights will be used (content strategy, product development, marketing adjustments)
+- **Risk tolerance**: How much weight to give early indicators vs. established patterns in strategic decision-making
+
 ## Prompt
 
 ```

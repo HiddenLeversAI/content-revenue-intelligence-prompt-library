@@ -3,6 +3,16 @@
 ## Purpose
 Transform weak openings into powerful hooks that stop scrollers, capture attention, and compel readers to consume your entire piece of content.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Current hook/opening** (existing headline and first 2-3 sentences)
+- **Content context** (topic, content type, target audience, and desired action)
+- **Key value/insight** (main takeaway readers will get from your content)
+- **Audience psychology** (pain points, desires, skepticism, and status aspirations)
+- **Content purpose** (awareness, education, conversion, or entertainment)
+
 ## Prompt
 
 ```

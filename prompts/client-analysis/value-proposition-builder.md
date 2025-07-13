@@ -3,6 +3,14 @@
 ## Purpose
 Develop compelling value propositions based on real customer conversations, using their language, priorities, and specific outcomes to create messaging that resonates with similar prospects.
 
+## Inputs Required
+- **Customer experience conversations** detailing their journey and outcomes with your solution
+- **Customer profile information** including role, industry, company size, and decision-making context
+- **Specific benefits and results** the customer has achieved using your solution
+- **Challenges they faced before** implementing your solution and how you addressed them
+- **Customer's exact language** about value, benefits, and transformation experienced
+- **Competitive context** if they compared you to alternatives during their decision process
+
 ## When To Use
 - Customer articulates specific benefits they've received
 - Need to refine messaging for specific market segments

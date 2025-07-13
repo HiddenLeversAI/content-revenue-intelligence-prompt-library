@@ -3,6 +3,43 @@
 ## Purpose
 Convert any manual business process into a complete Make.com automation scenario with detailed setup instructions.
 
+## Inputs Required
+
+### Process Documentation or Descriptions
+- **Manual Process Overview**: Detailed description of the task you want to automate
+- **Current Workflow Steps**: Complete step-by-step breakdown of manual process
+- **Trigger Events**: What currently initiates this process (time, action, data)
+- **Decision Points**: Where human judgment or conditional logic is required
+- **Data Transformations**: How information changes throughout the process
+
+### Current Pain Points and Bottlenecks
+- **Time Consumption**: How long the manual process currently takes
+- **Error Rate**: Common mistakes or quality issues with manual execution
+- **Repetitive Elements**: Which steps are most tedious or time-consuming
+- **Capacity Limits**: Where the process breaks down under volume
+- **Inconsistency Issues**: Where results vary between team members
+
+### Available Tools and Integrations
+- **Current Software Stack**: All apps, platforms, and systems involved
+- **Make.com Plan**: Current subscription level and operation limits
+- **API Availability**: Which systems have Make.com connectors or webhooks
+- **Authentication Access**: Admin rights to connect various platforms
+- **Data Sources**: Where information originates and how it's accessed
+
+### Success Metrics and Goals
+- **Time Savings Target**: Expected reduction in manual work hours
+- **Accuracy Improvement**: Quality standards and error reduction goals
+- **Volume Handling**: Increased capacity needs the automation should support
+- **ROI Expectations**: Return on investment timeline and targets
+- **Performance Requirements**: Speed and reliability expectations
+
+### Implementation Timeline
+- **Urgency Level**: How quickly the automation needs to be deployed
+- **Testing Period**: Time available for scenario validation and refinement
+- **Team Training**: Learning curve and adoption timeline
+- **Rollback Requirements**: Backup plans if automation needs to be disabled
+- **Maintenance Schedule**: Ongoing monitoring and optimization availability
+
 ## Prompt
 
 You are a Make.com automation expert. Help me convert a manual process into an automated Make.com scenario.

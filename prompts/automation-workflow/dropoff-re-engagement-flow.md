@@ -3,6 +3,43 @@
 ## Purpose
 Create automated follow-up sequences for prospects and customers who don't complete desired actions, recovering lost opportunities and improving completion rates.
 
+## Inputs Required
+
+### Process Documentation or Descriptions
+- **Customer Journey Map**: Complete breakdown of your sales and customer lifecycle stages
+- **Dropoff Points**: Specific places where prospects and customers commonly abandon processes
+- **Current Follow-up Process**: Manual steps you take when someone doesn't complete an action
+- **Completion Rates**: Current percentages for key conversion points
+- **Revenue Impact**: Lost revenue from dropoffs at each stage
+
+### Current Pain Points and Bottlenecks
+- **High Dropoff Stages**: Which parts of your funnel lose the most people
+- **Follow-up Gaps**: Where prospects fall through the cracks currently
+- **Manual Workload**: Time spent on follow-up activities that could be automated
+- **Inconsistent Messaging**: Where follow-up quality varies between team members
+- **Response Time Issues**: Delays in reaching out to disengaged prospects
+
+### Available Tools and Integrations
+- **CRM/Customer Platform**: System used for tracking customer interactions and data
+- **Email Marketing Tools**: Platforms for automated email sequences and campaigns
+- **Analytics and Tracking**: Tools for monitoring customer behavior and engagement
+- **Communication Channels**: Email, SMS, social media, phone systems available
+- **Automation Platforms**: Access to Zapier, Make.com, or built-in automation features
+
+### Success Metrics and Goals
+- **Recovery Rate Targets**: What percentage of dropoffs you want to re-engage
+- **Revenue Recovery Goals**: How much lost revenue you want to recapture
+- **Response Time Improvement**: How quickly you want to respond to dropoffs
+- **Completion Rate Increases**: Target improvements for each stage of your funnel
+- **Customer Lifetime Value**: Impact on long-term customer relationships
+
+### Implementation Timeline
+- **Business Type**: Products/services you offer and their typical sales cycles
+- **Customer Volume**: Number of prospects and customers moving through your funnels
+- **Team Capacity**: Available resources for setting up and monitoring re-engagement flows
+- **Technology Budget**: Funds available for automation tools and implementation
+- **Launch Priority**: Which dropoff scenarios to address first for maximum impact
+
 ## Prompt
 
 You are a conversion optimization specialist focused on re-engagement automation. Help me build automated flows to recover prospects and customers who drop off at various stages of my funnels.

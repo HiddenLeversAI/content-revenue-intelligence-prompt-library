@@ -3,6 +3,14 @@
 ## Purpose
 Systematically identify, categorize, and prioritize customer pain points from conversations to create targeted solutions and compelling marketing messages.
 
+## Inputs Required
+- **Call recordings or comprehensive conversation notes** from customer interactions (sales calls, support tickets, feedback sessions)
+- **Customer profile information** including demographics, role, company size, and industry context
+- **Current situation details** about what the customer is trying to accomplish and their existing processes
+- **Specific problems mentioned** including both stated and implied challenges
+- **Quantified impacts** such as time lost, money spent, or opportunities missed due to current pain points
+- **Current workarounds or solutions** the customer is using to cope with their problems
+
 ## When To Use
 - Analyzing customer feedback or support conversations
 - Developing new products or services based on real needs

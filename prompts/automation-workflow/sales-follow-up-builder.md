@@ -3,6 +3,43 @@
 ## Purpose
 Design comprehensive automation for nurturing and re-engaging unbooked leads to recover lost revenue opportunities.
 
+## Inputs Required
+
+### Current Manual Processes
+- **Follow-up Tasks**: What you currently do manually for unbooked leads
+- **Time Investment**: Hours spent weekly on lead follow-up activities
+- **Follow-up Frequency**: How often you currently reach out to cold leads
+- **Success Rate**: Current conversion percentage from follow-up efforts
+- **Manual Touchpoints**: Where human interaction is currently required
+
+### Tools and Systems Currently Used
+- **CRM Platform**: Current customer relationship management system
+- **Email Marketing Tool**: Platform used for email communications
+- **Sales Communication Stack**: Phone systems, texting, social media tools
+- **Calendar/Scheduling System**: Booking and appointment management tools
+- **Analytics Tools**: How you currently track follow-up performance
+
+### Business Metrics and Goals
+- **Average Deal Value**: Typical revenue per closed client/customer
+- **Lead Volume**: Number of unbooked leads generated monthly
+- **Current Conversion Rates**: Percentage of leads that eventually convert
+- **Revenue Recovery Target**: How much additional revenue you want to capture
+- **Cost Per Lead**: Investment in generating each lead initially
+
+### Team Size and Roles
+- **Sales Team Size**: Number of people involved in follow-up processes
+- **Role Responsibilities**: Who handles what parts of lead nurturing
+- **Skill Levels**: Team comfort with automation and technology
+- **Time Allocation**: How much time team can dedicate to follow-up
+- **Capacity Constraints**: Current bottlenecks in your sales process
+
+### Technical Constraints
+- **Automation Platform Access**: Available tools (HubSpot, ActiveCampaign, etc.)
+- **Integration Capabilities**: Which systems can connect to each other
+- **Compliance Requirements**: Legal restrictions on communications (CAN-SPAM, GDPR)
+- **Data Quality**: Completeness and accuracy of lead contact information
+- **Budget Limitations**: Monthly/annual spend available for automation tools
+
 ## Prompt
 
 You are a sales automation specialist focused on lead recovery and revenue optimization. Help me build an automated follow-up system for leads who haven't booked calls or purchased.

@@ -3,6 +3,16 @@
 ## Purpose
 Transform written blog posts into visually engaging carousel posts for LinkedIn, Instagram, or Twitter/X that drive traffic back to your original content while maximizing social media engagement.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Blog post content** (complete title, URL, word count, and full text)
+- **Target platform** (LinkedIn, Instagram, or Twitter/X for platform-specific optimization)
+- **Brand elements** (colors in HEX codes, preferred fonts, logo)
+- **Key visual elements** (charts, data points, or concepts that work well visually)
+- **Primary keyword** (main SEO term to maintain content focus)
+
 ## Prompt
 
 ```

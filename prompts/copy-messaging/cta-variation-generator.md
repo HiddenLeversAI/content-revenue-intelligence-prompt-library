@@ -48,12 +48,43 @@ Guidelines:
 - Avoid generic phrases like "Click Here" or "Submit"
 ```
 
-## Input Requirements
-- Clear description of the offer or action
-- Understanding of target audience voice preferences
-- Context for where CTA will appear
-- Customer journey stage information
-- Any current performance benchmarks
+## Inputs Required
+
+### Offer & Action Foundation
+- **Detailed description** of what customers are signing up for or purchasing
+- **Value proposition** behind the action you want them to take
+- **Commitment level** required (low-risk trial vs high-commitment purchase)
+- **Immediate next steps** after they click/convert
+
+### Target Audience Preferences
+- **Audience voice preferences** (formal, casual, enthusiastic, conservative)
+- **Communication style** that resonates with your customer base
+- **Industry terminology** and language patterns they use
+- **Cultural context** and regional communication preferences
+
+### Platform & Context Requirements
+- **Specific platforms** where CTAs will appear (email, social media, landing pages)
+- **Character limits** and design constraints for each platform
+- **Visual context** (button, text link, verbal CTA)
+- **Surrounding content** that will influence CTA effectiveness
+
+### Customer Journey Intelligence
+- **Awareness stage** of prospects (cold, warm, hot, existing customers)
+- **Decision-making timeline** and urgency factors
+- **Previous touchpoints** and relationship with your brand
+- **Objections or hesitations** at this stage of the journey
+
+### Performance & Testing Framework
+- **Current CTA performance** benchmarks and conversion rates
+- **A/B testing capacity** and timeline for optimization
+- **Success metrics** beyond conversion (engagement, quality of leads)
+- **Historical data** on which psychological triggers work best
+
+### Brand Voice & Competitive Context
+- **Brand personality** and voice guidelines for consistency
+- **Competitor CTA strategies** and approaches to differentiate from
+- **Brand energy level** (high-energy vs calm and professional)
+- **Authenticity requirements** and genuine vs promotional balance
 
 ## Expected Output
 - 10 distinct CTA variations

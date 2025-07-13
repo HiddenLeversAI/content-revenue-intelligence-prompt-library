@@ -3,11 +3,15 @@
 ## Purpose
 Transform case studies and success stories into compelling offer promises that attract similar customers and set clear expectations.
 
-## Input Required
-- Case study or success story details
-- Target customer profile
-- Offer type (course, service, product)
-- Desired positioning
+## Inputs Required
+- Case studies and success stories with measurable outcomes
+- Target customer profile and market research data
+- Current offers with pricing and positioning information
+- Competitive landscape analysis and differentiation factors
+- Customer feedback and validation data from previous offers
+- Market positioning goals and brand alignment requirements
+- Sales process data (objections, conversion rates, sales cycle length)
+- Revenue targets and customer acquisition cost benchmarks
 
 ## Prompt
 

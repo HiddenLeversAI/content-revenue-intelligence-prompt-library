@@ -5,6 +5,16 @@
 ## Purpose
 Transform blog posts, articles, or video transcripts into engaging Twitter/X threads that expand your reach and drive traffic back to your long-form content.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **Long-form content** (complete article, blog post, or video transcript)
+- **Target audience description** (who you want to reach on Twitter/X)
+- **Primary goal** (traffic generation, lead capture, or authority building)
+- **Original content URL** (link to drive traffic back to)
+- **Key takeaways** (3-5 main insights from the original content)
+
 ## Prompt
 
 ```

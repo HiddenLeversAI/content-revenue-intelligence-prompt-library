@@ -42,11 +42,31 @@ Guidelines:
 - Keep paragraphs to 2-3 sentences max
 ```
 
-## Input Requirements
-- Current product description or sales copy
-- Clear understanding of target audience
-- Knowledge of main customer pain points
-- Any available social proof or metrics
+## Inputs Required
+
+### Original Content for Optimization
+- **Current product description** or sales copy that needs improvement
+- **Feature-heavy messaging** that lacks clear value communication
+- **Technical specifications** that need benefit translation
+- **Existing marketing materials** (brochures, websites, presentations)
+
+### Customer Intelligence & Research
+- **Target audience personas** with specific demographics and psychographics
+- **Customer pain points and frustrations** documented through research
+- **Customer success stories** showing actual outcomes and transformations
+- **Voice of customer feedback** including language patterns and terminology
+
+### Brand Voice & Positioning
+- **Brand voice guidelines** and tone preferences for consistency
+- **Competitive differentiation points** to emphasize
+- **Brand personality traits** to maintain throughout the rewrite
+- **Value proposition hierarchy** showing primary vs secondary benefits
+
+### Conversion & Performance Data
+- **Current conversion metrics** and performance baselines
+- **Customer objections** commonly encountered in sales processes
+- **Social proof elements** (testimonials, case studies, metrics, awards)
+- **Urgency factors** that motivate customer action without being pushy
 
 ## Expected Output
 - Complete rewritten product description

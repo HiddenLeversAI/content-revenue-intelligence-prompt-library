@@ -3,6 +3,14 @@
 ## Purpose
 Extract provocative, contrarian, or surprising opinions from client conversations that can be turned into attention-grabbing content and thought leadership pieces.
 
+## Inputs Required
+- **Call recordings or detailed transcripts** of client conversations where opinions were shared
+- **Client background information** including industry expertise, years of experience, and credibility markers
+- **Conversation context** including the topic discussed and purpose of the call
+- **Specific controversial statements** or opinions that stood out during the conversation
+- **Supporting evidence or examples** the client provided for their viewpoints
+- **Client permission** to use their perspectives in public content or marketing materials
+
 ## When To Use
 - Client shares an unexpected perspective on industry norms
 - Need controversial content that sparks engagement

@@ -3,11 +3,15 @@
 ## Purpose
 Transform product features into compelling outcomes and benefits that resonate with customer desires and pain points.
 
-## Input Required
-- Product/service features
-- Target customer profile
-- Customer pain points
-- Desired outcomes
+## Inputs Required
+- Product/service features with technical specifications and capabilities
+- Target customer profile with detailed demographics and psychographics
+- Customer pain points validated through market research and feedback
+- Competitive landscape analysis and feature differentiation strategies
+- Customer feedback and validation data showing feature preferences and usage
+- Market positioning goals and brand messaging alignment requirements
+- Sales process insights including common objections and feature-related questions
+- Revenue impact data showing which features drive purchasing decisions
 
 ## Prompt
 

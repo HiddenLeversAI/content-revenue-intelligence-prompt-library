@@ -3,6 +3,14 @@
 ## Purpose
 Refine market positioning and competitive differentiation based on how customers actually perceive and describe your value compared to alternatives they've used or considered.
 
+## Inputs Required
+- **Customer conversations with competitive discussions** where they compare you to alternatives
+- **Background on their evaluation process** including criteria used and alternatives considered
+- **Information about competitors mentioned** and how customers perceived each option
+- **Decision factors and reasoning** behind why they chose your solution
+- **Long-term experience feedback** about how your solution performs compared to expectations
+- **Customer's language** about how they describe your solution to others in their organization
+
 ## When To Use
 - Customer compares you favorably to competitors
 - Need to understand your true competitive advantages

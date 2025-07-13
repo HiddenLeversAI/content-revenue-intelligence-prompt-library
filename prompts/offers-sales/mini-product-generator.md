@@ -3,11 +3,15 @@
 ## Purpose
 Transform raw content (blog posts, videos, workshops) into structured digital products with clear packaging and pricing strategy.
 
-## Input Required
-- Raw content piece (blog post, video transcript, workshop notes)
-- Target audience description
-- Desired price range ($7-$97)
-- Content format preference (PDF, video, course modules)
+## Inputs Required
+- Raw content piece (blog post, video transcript, workshop notes, presentation slides)
+- Target audience demographics and pain points
+- Existing content library or expertise areas for cross-promotion
+- Desired price range ($7-$97) with market research justification
+- Content format preference (PDF, video, course modules, templates, checklists)
+- Competitive analysis of similar micro-products in your niche
+- Customer feedback or validation data from previous content
+- Revenue goals and volume expectations for this product tier
 
 ## Prompt
 

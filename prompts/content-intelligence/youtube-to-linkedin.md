@@ -3,6 +3,16 @@
 ## Purpose
 Transform YouTube video content into professional LinkedIn posts that drive B2B engagement and position you as a thought leader while maintaining the original video's value proposition.
 
+## Inputs Required
+
+Before using this prompt, gather the following information:
+
+- **YouTube video details** (title, URL, duration, and key points or transcript)
+- **Target B2B audience** (specific roles, industries, or company types)
+- **Desired outcome** (video views, lead generation, consultation bookings, etc.)
+- **Key insights from video** (3-5 main takeaways that solve business problems)
+- **Professional context** (how the content applies to their work/industry)
+
 ## Prompt
 
 ```

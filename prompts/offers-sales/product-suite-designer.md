@@ -3,11 +3,15 @@
 ## Purpose
 Create a cohesive 3-tier offer stack from a single core idea, building logical progression from entry-level to premium offerings.
 
-## Input Required
-- Core expertise or topic area
-- Target customer segments
-- Revenue goals per tier
-- Delivery preferences
+## Inputs Required
+- Core expertise areas and existing content library for product development
+- Target customer segments with detailed demographics and purchasing behavior
+- Competitive landscape analysis and market gap identification
+- Revenue goals per tier and overall business growth targets
+- Delivery preferences and operational capacity constraints
+- Customer feedback and validation data from previous product launches
+- Market research data on pricing sensitivity and willingness to pay
+- Existing sales process and team capabilities for different offer types
 
 ## Prompt
 

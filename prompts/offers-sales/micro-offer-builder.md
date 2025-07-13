@@ -3,11 +3,15 @@
 ## Purpose
 Transform advice, tips, or insights into structured micro-products priced between $27-$97 that provide immediate, actionable value.
 
-## Input Required
-- Core advice or expertise
-- Specific problem it solves
-- Target customer pain points
-- Preferred delivery format
+## Inputs Required
+- Core expertise areas and existing content that can be productized
+- Specific customer problems with market research validation
+- Target customer pain points and purchasing behavior analysis
+- Competitive analysis of similar micro-offers in your market
+- Customer feedback and validation data from previous content or products
+- Pricing research and market positioning strategy for $27-$97 range
+- Revenue goals and volume expectations for this product tier
+- Delivery format preferences aligned with operational capabilities
 
 ## Prompt
 

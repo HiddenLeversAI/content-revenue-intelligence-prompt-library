@@ -3,11 +3,15 @@
 ## Purpose
 Strategically compare two potential flagship offers to determine which will be more successful based on market fit, profitability, and growth potential.
 
-## Input Required
-- Two offer concepts
-- Market research data
-- Resource requirements
-- Strategic goals
+## Inputs Required
+- Two detailed offer concepts with pricing and positioning strategies
+- Comprehensive market research data and competitive landscape analysis
+- Resource requirements analysis including team, budget, and operational capacity
+- Customer feedback and validation data for both offer concepts
+- Revenue goals and business growth targets with timeline considerations
+- Market positioning strategy and brand alignment requirements
+- Sales process capabilities and team readiness for each offer type
+- Risk assessment data including market risks and execution challenges
 
 ## Prompt
 

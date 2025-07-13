@@ -3,6 +3,43 @@
 ## Purpose
 Build an automated workflow for tracking and managing content delivery to clients, ensuring nothing falls through the cracks.
 
+## Inputs Required
+
+### Current Manual Processes
+- **Project Intake Method**: How you currently receive and process new deliverable requests
+- **Tracking System**: Current method for monitoring project progress (spreadsheets, tools, etc.)
+- **Time Investment**: Hours spent weekly on project management and tracking
+- **Communication Frequency**: How often you update clients and team on project status
+- **Quality Control Process**: Current review and approval procedures
+
+### Tools and Systems Currently Used
+- **Project Management Platform**: Current software for task and project tracking
+- **Communication Tools**: Email, Slack, client portals, or other messaging systems
+- **File Storage System**: Where deliverables are created, stored, and shared
+- **Calendar/Scheduling Tools**: Systems for deadline and milestone management
+- **Client Management System**: CRM or database for client information and history
+
+### Business Metrics and Goals
+- **Client Volume**: Number of active clients requiring regular deliverables
+- **Deliverable Types**: Content formats you create (blog posts, videos, graphics, courses)
+- **Delivery Frequency**: How often deliverables are due (weekly, monthly, per project)
+- **Average Project Value**: Typical revenue per deliverable or project
+- **Current Miss Rate**: Percentage of deliverables that are late or missed
+
+### Team Size and Roles
+- **Team Structure**: Number of people involved in deliverable creation and management
+- **Role Responsibilities**: Who handles creation, review, approval, and delivery
+- **Skill Levels**: Team comfort with automation and project management tools
+- **Capacity Constraints**: Current bottlenecks in your delivery pipeline
+- **Workload Distribution**: How work is currently assigned and balanced
+
+### Technical Constraints
+- **Integration Capabilities**: Which systems can connect to each other
+- **Automation Platform Access**: Available tools (Zapier, Make.com, built-in automations)
+- **Client Requirements**: Any specific delivery methods or approval processes required
+- **Data Security**: Confidentiality and access control requirements for client work
+- **Budget Limitations**: Available spend for project management and automation tools
+
 ## Prompt
 
 You are a project management automation specialist. Help me create a comprehensive system for tracking content deliverables from creation to client delivery.

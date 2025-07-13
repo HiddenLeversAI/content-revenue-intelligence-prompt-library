@@ -41,11 +41,37 @@ Include customer name and relevant title/context for credibility.
 Mark which parts are direct quotes vs. paraphrased.
 ```
 
-## Input Requirements
-- 3-10 longer testimonials (100+ words each)
-- Customer permission to use and edit testimonials
-- Context for where snippets will be used
-- Any specific outcomes or benefits to highlight
+## Inputs Required
+
+### Raw Testimonial Content
+- **3-10 detailed testimonials** (100+ words each) from satisfied customers
+- **Mixed testimonial formats** (written reviews, interview transcripts, video captions)
+- **Customer context information** (industry, role, company size, use case)
+- **Permission documentation** to edit and use testimonials publicly
+
+### Outcome & Benefit Focus
+- **Specific success metrics** mentioned in testimonials to emphasize
+- **Key benefits hierarchy** showing which outcomes matter most
+- **Transformation stories** with clear before-and-after states
+- **Unique value propositions** that testimonials should support
+
+### Usage Context & Constraints
+- **Specific platforms** where snippets will be used (social media, landing pages, email)
+- **Character or word limits** for each use case
+- **Visual design context** (quote graphics, testimonial carousels, trust sections)
+- **Campaign objectives** (credibility, social proof, conversion)
+
+### Brand Voice & Authenticity
+- **Brand voice guidelines** to maintain consistency while preserving customer voice
+- **Customer language patterns** to keep authentic phrasing
+- **Industry terminology** that resonates with target audience
+- **Editing guidelines** for maintaining testimonial authenticity
+
+### Social Proof Strategy
+- **Competitor testimonial examples** for differentiation insights
+- **Customer credibility markers** (titles, companies, achievements)
+- **Trust signals** to emphasize (awards, certifications, industry recognition)
+- **Objection handling** needs that testimonials should address
 
 ## Expected Output
 - Multiple snippet lengths for each testimonial
